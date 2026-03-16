@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+Olá, eu sou Gabriel Luis Garcia
+Estudante de desenvolvimento de Sistemas!!
+Focado em Phyton, HTML e CSS
+Preparando-se para o mercado de tecnologia.
+Contato: gabrielluisgarcia@gmail.com
 <!--
 **gabriellugarcia/gabriellugarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
